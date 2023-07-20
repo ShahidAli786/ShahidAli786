@@ -12,5 +12,4 @@ Hello there! 👋 I'm Shahid Ali, a passionate software engineer and technology 
 - **Programming Languages:** JavaScript (ES6+), HTML5, CSS3
 - **Frameworks & Libraries:** ReactJS, NextJS, React Native, Redux, Redux toolkit
 - **Version Control:** Git, GitHub
-- **Testing:** Jest, Enzyme
-- **Database:** MongoDB, Firebase
+- **Testing:** Jest, Enzyme, React Testing library
