@@ -4,7 +4,7 @@ Hello there! 👋 I'm Shahid Ali, a passionate software engineer and technology 
 
 - 💻 I am a software engineer with experience in developing both web and mobile applications.
 - 🌱 I love learning new technologies and exploring innovative solutions to real-world problems.
-- 📍 I am currently working at Rapid Innovation as a Team Lead (React Native), where I specialize in React Native and ReactJS.
+- 📍 I am currently working at Datamatics, where I specialize in React Native and ReactJS.
 - 🚀 I am always seeking new challenges and opportunities to grow both professionally and personally.
 
 ## My Skills
